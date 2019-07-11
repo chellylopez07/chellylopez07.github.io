@@ -1,1 +1,1 @@
-alert("WELKOME TO THEEE LAMEST WEBCITE EBER!!!!")
+alert("booooo")
