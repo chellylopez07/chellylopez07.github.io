@@ -1,1 +1,1 @@
-alert("THIS WILL BE THE LAMEST WEBSITE YOU EVER SEE!!!")
+alert("oops")
